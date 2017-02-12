@@ -58,7 +58,7 @@ var bot_id = process.argv[2],
                 accessToken: 'BN3dagO_'
             }
         },
-        time: 30,
+        time: 120,
         admins: ['76561198073063637']
     };
 console = process.console;
