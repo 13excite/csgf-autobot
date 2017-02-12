@@ -1,0 +1,29 @@
+{
+  "name": "csgf_bot",
+  "version": "1.0.0",
+  "description": "CSGF.RU bot pkg file",
+  "main": "app.js",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "fs": "^0.0.2",
+    "steam": "^1.4.0",
+    "steam-totp": "^1.4.0",
+    "steam-tradeoffers": "^2.2.0",
+    "steam-web-api-key": "^0.0.2",
+    "steam-weblogon": "^0.0.4",
+    "steamcommunity": "^3.28.0",
+    "steamcommunity-mobile-confirmations": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "csgf",
+    "bot",
+    "skoniks"
+  ],
+  "author": "skoniks",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/SKONIKS/csgf-bot#readme"
+}
